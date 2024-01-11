@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Deep! 👋
 
 <!--
 **deepparmar02/deepparmar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I am a fourth-year Computer Science student at the University of Waterloo, specializing in Business. 
+
+🌱 I am extremely passionate about software development, and artificial intelligence and love to work on projects intersecting within these fields. I am hard-working, persistent, passionate, and a personable team player with an aptitude for technology, and intuition for solving challenging problems, and a strong track record in people leadership.
+
+💻 Past roles:
+
+- Software Engineer @ [Super.com](https://www.linkedin.com/company/superdotcom/) - Fall 2023
+- Software Engineer @ [TD Bank](https://www.linkedin.com/company/td/) - Winter 2023
+- Software Engineer @ [Spotwork](https://www.linkedin.com/company/spotworkco/) - Summer 2022
+- Software Engineer @ [Exponet Canada](https://www.linkedin.com/company/exponet-canada-inc-/about/) - Summer 2021
+
+🌎 Reach me at:
+
+- LinkedIn: https://www.linkedin.com/in/deepparmar02/
+- Email: d5parmar@uwaterloo.ca
