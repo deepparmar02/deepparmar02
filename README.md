@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 💻 Past roles:
 
+- Incoming Software Engineer @ [DineWise](https://www.linkedin.com/company/dinewise-inc/) - Fall 2024
+- Software Engineer @ [Boosted.ai](https://www.linkedin.com/company/boostedai/mycompany/) - Summer 2024
 - Software Engineer @ [Super.com](https://www.linkedin.com/company/superdotcom/) - Fall 2023
 - Software Engineer @ [TD Bank](https://www.linkedin.com/company/td/) - Winter 2023
 - Software Engineer @ [Spotwork](https://www.linkedin.com/company/spotworkco/) - Summer 2022
