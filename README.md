@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am a fourth-year Computer Science student at the University of Waterloo, specializing in Business. Currently, SWE Intern @ [Boosted.ai](https://www.linkedin.com/company/boostedai/mycompany/)
+🔭 I am a fourth-year Computer Science student at the University of Waterloo, specializing in Business. Currently, looking for SWE New Grad Roles.
 
 🌱 I am extremely passionate about software development, and artificial intelligence and love to work on projects intersecting within these fields. I am hard-working, persistent, passionate, and a personable team player with an aptitude for technology, and intuition for solving challenging problems, and a strong track record in people leadership.
 
 💻 Past roles:
 
-- Incoming Software Engineer @ [DineWise](https://www.linkedin.com/company/dinewise-inc/) - Fall 2024
+- Software Engineer @ [DineWise](https://www.linkedin.com/company/dinewise-inc/) - Fall 2024
 - Software Engineer @ [Boosted.ai](https://www.linkedin.com/company/boostedai/mycompany/) - Summer 2024
 - Software Engineer @ [Super.com](https://www.linkedin.com/company/superdotcom/) - Fall 2023
 - Software Engineer @ [TD Bank](https://www.linkedin.com/company/td/) - Winter 2023
